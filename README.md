@@ -17,8 +17,8 @@ Hệ điều hành học tập cá nhân – Full-time coding journey từ 11.20
 ![Projects](https://img.shields.io/badge/Projects-0%2F10-red)
 
 ## Các khu vực
-- 📅 [01-daily-practice](./01-daily-practice) – Mỗi ngày 1 commit nhỏ
-- 🏆 [02-challenges](./02-challenges) – LeetCode, HackerRank…
-- 🚀 [03-mini-projects](./03-mini-projects) – Dự án hoàn chỉnh
-- 🧠 [04-deep-dives](./04-deep-dives) – Note kiến thức sâu
-- 📚 [05-resources](./05-resources) – Link, video, ebook hay
+- 📅 [01-daily-practice](./01-daily-practice/) – Mỗi ngày 1 commit nhỏ
+- 🏆 [02-challenges](./02-challenges/) – LeetCode, HackerRank…
+- 🚀 [03-mini-projects](./03-mini-projects/) – Dự án hoàn chỉnh
+- 🧠 [04-deep-dives](./04-deep-dives/) – Note kiến thức sâu
+- 📚 [05-resources](./05-resources/) – Link, video, ebook hay
