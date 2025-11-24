@@ -1,9 +1,10 @@
 ---
-name: 🧠 Deep Dive
-description: Nghiên cứu + tóm tắt 1 chủ đề thật sâu
+name: "\U0001F9E0 Deep Dive"
+about: Nghiên cứu + tóm tắt 1 chủ đề thật sâu
 title: "[Deep Dive] "
-labels: [deep-dive, learning]
+labels: ''
 assignees: tailao455-lang
+
 ---
 
 ### Chủ đề sẽ đào sâu

@@ -1,9 +1,10 @@
 ---
-name: 🏆 Challenge Series
-description: LeetCode, 100 Days of Code, Frontend Mentor...
+name: "\U0001F3C6 Challenge Series"
+about: LeetCode, 100 Days of Code, Frontend Mentor...
 title: "[Challenge] "
-labels: [challenge]
+labels: ''
 assignees: tailao455-lang
+
 ---
 
 ### Tên challenge
@@ -14,4 +15,4 @@ assignees: tailao455-lang
 
 ### Tracking (cập nhật hàng ngày)
 - Ngày 1 → 
-- Ngày 2 → 
+- Ngày 2 →

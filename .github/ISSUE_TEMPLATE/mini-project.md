@@ -1,9 +1,10 @@
 ---
-name: 🚀 Mini Project
-description: Bắt đầu một dự án nhỏ hoàn chỉnh cho portfolio
+name: "\U0001F680 Mini Project"
+about: Bắt đầu một dự án nhỏ hoàn chỉnh cho portfolio
 title: "[Mini Project] "
-labels: [mini-project, portfolio]
+labels: ''
 assignees: tailao455-lang
+
 ---
 
 ### Tên dự án
