@@ -1,18 +1,14 @@
 ---
-name: "\U0001F3C6 Challenge Series"
-about: LeetCode, 100 Days of Code, Frontend Mentor...
+name: "Xây 1 repo GitHub + cập nhật Notion"
+about: learning project, full-time / gần full-time
 title: "[Challenge] "
-labels: ''
+labels: 'GitHub – Chỉ cần 1 repository duy nhất (mono-repo), Notion – All-in-one workspace cực gọn'
 assignees: tailao455-lang
 
 ---
 
 ### Tên challenge
-
+Tạo Learning OS 2025
 ### Mục tiêu
-- [ ] Hoàn thành X bài/ngày
-- [ ] Thời gian: từ 2025-MM-DD → 2025-MM-DD
-
-### Tracking (cập nhật hàng ngày)
-- Ngày 1 → 
-- Ngày 2 →
+- [ ] Đã hoàn thành
+- [ ] Thời gian: 25-11-2025
