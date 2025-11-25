@@ -1,0 +1,31 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'    # chạy mỗi 6 tiếng
+  workflow_dispatch:        # cho phép chạy thủ công
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: tailao455-lang
+          OUTPUT: stats.svg
+          THEME: tokyonight
+          WIDTH: 500
+
+      - name: Commit & Push nếu có thay đổi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git commit -m "Update stats card" || exit 0
+          git push
