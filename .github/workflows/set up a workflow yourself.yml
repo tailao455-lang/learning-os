@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # cập nhật mỗi 6 tiếng
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: tailao455-lang
+          OUTPUT: stats.svg
+          THEME: tokyonight
+
+      - name: Commit & Push stats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add stats.svg
+          git commit -m "Update stats [skip ci]" || exit 0
+          git push
