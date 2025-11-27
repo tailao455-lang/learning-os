@@ -1,8 +1,11 @@
-name: "Mini Project"
+---
+name: "\U0001F680 Mini Project"
 about: Bắt đầu một dự án nhỏ hoàn chỉnh cho portfolio
 title: "[Mini Project] Data Cleaning Utils – Làm sạch lương bẩn kiếm $500+"
 labels: enhancement, portfolio
 assignees: tailao455-lang
+
+---
 
 ### Tên dự án
 Data Cleaning Utils – Bộ công cụ làm sạch dữ liệu cho Freelance Data Analyst
