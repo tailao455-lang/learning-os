@@ -1,8 +1,11 @@
-name: "Mini Project"
+---
+name: "\U0001F680 Mini Project"
 about: Bắt đầu một dự án nhỏ hoàn chỉnh cho portfolio
 title: "[Mini Project] Data Cleaning Utils – Làm sạch lương bẩn kiếm $500+"
 labels: enhancement, portfolio
 assignees: tailao455-lang
+
+---
 
 ### Tên dự án
 Data Cleaning Utils – Bộ công cụ làm sạch dữ liệu cho Freelance Data Analyst
@@ -25,4 +28,8 @@ Data Cleaning Utils – Bộ công cụ làm sạch dữ liệu cho Freelance Da
 2025-11-30 → HOÀN THÀNH SỚM 100%!!!
 
 ### Link reference
+<<<<<<< HEAD
 https://github.com/tailao455-lang/learning-os/tree/main/freelance-data-tools/data-cleaning-utils
+=======
+https://github.com/tailao455-lang/data-cleaning-utils
+>>>>>>> ec8cea3a6d8ed275cf808486418225cea01f5542

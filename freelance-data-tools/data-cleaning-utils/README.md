@@ -1,6 +1,6 @@
 # Mini Project: Data Cleaning Utils for Freelance Data Analyst
 
-Hàm Python cực mạnh giúp làm sạch dữ liệu lương – thứ mà khách hàng freelancer trả $300–$800 để bạn làm mỗi ngày!
+Hàm Python cực mạnh giúp làm sạch dữ liệu lương
 
 ### clean_salary() – Vũ khí kiếm tiền số 1
 ```python
