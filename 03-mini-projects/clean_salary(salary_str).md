@@ -28,6 +28,4 @@ Data Cleaning Utils – Bộ công cụ làm sạch dữ liệu cho Freelance Da
 2025-11-30 → HOÀN THÀNH SỚM 100%!!!
 
 ### Link reference
-<<<<<<< HEAD
 https://github.com/tailao455-lang/learning-os/blob/main/freelance-data-tools/data-cleaning-utils/utils.py
->>>>>>>
